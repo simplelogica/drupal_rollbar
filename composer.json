@@ -6,6 +6,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "rollbar/rollbar": "~1.0.0-beta"
+    "rollbar/rollbar": "dev-master"
   }
 }

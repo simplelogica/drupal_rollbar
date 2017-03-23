@@ -1,5 +1,5 @@
 {
-  "name": "iainp999/rollbar",
+  "name": "drupal/rollbar",
   "description": "Rollbar integration for Drupal 8.",
   "type": "drupal-module",
   "license": "GPL 2.0+",
